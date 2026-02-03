@@ -1,0 +1,6 @@
+services:
+  - type: static
+    name: softnest
+    rootDir: .
+    buildCommand: ""
+    publishPath: .
